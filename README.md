@@ -20,10 +20,13 @@ This repository contains a well-organized collection of Java programs focusing o
 * Dynamic Programming (Knapsack, Longest Common Subsequence, etc.)
 * Recursion-based solutions
   
-✅ Solutions to competitive programming problems ✅ Well-commented and beginner-friendly code
-* Getting Started
+✅ Solutions to competitive programming problems 
+
+✅ Well-commented and beginner-friendly code
+
+# Getting Started
 * Clone the repository:
 * bash Copy code
-* https://github.com/ganeshmukhmale/Java-DSA.git
+* https://github.com/kirankhakare/JAVA_DSA.git
 * Navigate to a specific topic and run the programs.
 * IDEs like IntelliJ IDEA or Eclipse are recommended.
