@@ -25,8 +25,8 @@ This repository contains a well-organized collection of Java programs focusing o
 ✅ Well-commented and beginner-friendly code
 
 # Getting Started
-* Clone the repository:
+✅ Clone the repository :
 * bash Copy code
 * https://github.com/kirankhakare/JAVA_DSA.git
 * Navigate to a specific topic and run the programs.
-* IDEs like IntelliJ IDEA or Eclipse are recommended.
+* IDEs like Vs Code , IntelliJ IDEA or Eclipse are recommended.
